@@ -75,6 +75,7 @@
     "jsonwebtoken": "^8.4.0",
     "lodash": "^4.17.11",
     "long": "^4.0.0",
+    "mamacro": "0.0.3",
     "mime": "^2.4.0",
     "minimed-connect-to-nightscout": "^1.1.1",
     "moment": "^2.22.2",
@@ -92,10 +93,10 @@
     "shiro-trie": "^0.4.8",
     "simple-statistics": "^0.7.0",
     "socket.io": "^2.1.1",
+    "style-loader": "^0.20.2",
     "swagger-ui-dist": "^3.18.1",
     "traverse": "^0.6.6",
     "uglify-js": "^3.4.7",
-    "style-loader": "^0.20.2",
     "uuid": "^3.2.1"
   },
   "devDependencies": {
